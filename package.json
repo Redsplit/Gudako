@@ -1,0 +1,18 @@
+{
+  "name": "gudako",
+  "version": "1.0.0",
+  "description": "reverse gudako",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eris": "^0.11.0",
+    "eris-boiler": "^3.0.0",
+    "express": "^4.17.1"
+  }
+}
